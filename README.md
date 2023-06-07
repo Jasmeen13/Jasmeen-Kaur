@@ -68,12 +68,12 @@ Hi, I'm Jasmeen
 
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
 
-## :computer: Currently learning :computer:
+<!-- ## :computer: Currently learning :computer:
 ###### Data Science / Machine Learning / Artificial Intelligence
 ![NumPy](https://img.shields.io/badge/NumPy-000000?&style=flat&logo=numpy&logoColor=transparent)
 ![Pandas](https://img.shields.io/badge/Pandas-000000?&style=flat&logo=pandas&logoColor=transparent")
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?&style=flat&logo=PyTorch&logoColor=transparent)
-
+ -->
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Jasmeen13/Jasmeen-Kaur">
