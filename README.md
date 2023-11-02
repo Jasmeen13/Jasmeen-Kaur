@@ -10,7 +10,7 @@ Hi, I'm Jasmeen
 ## 📞 Contact me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jasmeen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasmeen-kaur-414497184/)](https://www.linkedin.com/in/jasmeen-kaur-414497184/)
-[![Gmail Badge](https://img.shields.io/badge/-Jasmeenkaur72974@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jasmeenkaur72974@gmail.com)](mailto:jasmeenkaur72974@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Jasmeenkaur72974@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jasmeenkaur72974@gmail.com)](mailto:jasmeenkaur.work0@gmail.com)
 
 
 ## :gear: Technologies & Tools
